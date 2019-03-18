@@ -10,6 +10,7 @@ except:
 #Det her projekt skriver bare sig selv
 #Det gør det
 
+
 #%%
 
 
