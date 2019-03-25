@@ -1,8 +1,6 @@
 #%% [markdown]
 # # Data Analysis Project
-# TEST4
-git config -- user.email 'ma-bi-an@hotmail.com'
-git config -- user.name 'MartinBA741'
+# TEST5
 #%%
 import pandas as pd
 import numpy as np
